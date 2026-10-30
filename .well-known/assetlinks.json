@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.axontechno.twa",
+      "sha256_cert_fingerprints": [
+        "A1:73:EC:5B:11:34:65:05:61:D7:1A:34:6D:13:0E:90:41:50:66:C4:B5:4D:C7:4E:7B:0F:DE:7C:F9:CB:CA:23"
+      ]
+    }
+  }
+]
